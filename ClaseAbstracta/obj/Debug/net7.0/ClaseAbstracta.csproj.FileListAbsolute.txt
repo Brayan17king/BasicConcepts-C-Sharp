@@ -1,0 +1,14 @@
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\bin\Debug\net7.0\ClaseAbstracta.exe
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\bin\Debug\net7.0\ClaseAbstracta.deps.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\bin\Debug\net7.0\ClaseAbstracta.runtimeconfig.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\bin\Debug\net7.0\ClaseAbstracta.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\bin\Debug\net7.0\ClaseAbstracta.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.AssemblyInfoInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.AssemblyInfo.cs
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\refint\ClaseAbstracta.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ClaseAbstracta.genruntimeconfig.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseAbstracta\obj\Debug\net7.0\ref\ClaseAbstracta.dll

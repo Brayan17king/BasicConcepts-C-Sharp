@@ -1,0 +1,14 @@
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.AssemblyInfoInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.AssemblyInfo.cs
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.csproj.CoreCompileInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\bin\Debug\net7.0\ClaseList.exe
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\bin\Debug\net7.0\ClaseList.deps.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\bin\Debug\net7.0\ClaseList.runtimeconfig.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\bin\Debug\net7.0\ClaseList.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\bin\Debug\net7.0\ClaseList.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\refint\ClaseList.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ClaseList.genruntimeconfig.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseList\obj\Debug\net7.0\ref\ClaseList.dll

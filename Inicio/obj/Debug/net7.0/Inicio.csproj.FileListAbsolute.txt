@@ -1,0 +1,14 @@
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\bin\Debug\net7.0\Inicio.exe
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\bin\Debug\net7.0\Inicio.deps.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\bin\Debug\net7.0\Inicio.runtimeconfig.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\bin\Debug\net7.0\Inicio.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\bin\Debug\net7.0\Inicio.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.AssemblyInfoInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.AssemblyInfo.cs
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\refint\Inicio.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\Inicio.genruntimeconfig.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\Inicio\obj\Debug\net7.0\ref\Inicio.dll

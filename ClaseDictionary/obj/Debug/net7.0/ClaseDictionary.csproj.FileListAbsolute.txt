@@ -1,0 +1,14 @@
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\bin\Debug\net7.0\ClaseDictionary.exe
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\bin\Debug\net7.0\ClaseDictionary.deps.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\bin\Debug\net7.0\ClaseDictionary.runtimeconfig.json
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\bin\Debug\net7.0\ClaseDictionary.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\bin\Debug\net7.0\ClaseDictionary.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.AssemblyInfoInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.AssemblyInfo.cs
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.csproj.CoreCompileInputs.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\refint\ClaseDictionary.dll
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.pdb
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ClaseDictionary.genruntimeconfig.cache
+C:\Users\xbray\OneDrive\Documentos\Campusland\jholver\CSharp\MegaDocumento\ClaseDictionary\obj\Debug\net7.0\ref\ClaseDictionary.dll
